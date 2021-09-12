@@ -7,7 +7,7 @@ Who maintains and contributes to the project
 ______________
 
 # Investment_Risk_Return_Analysis
-[Python-Code: Risk-Return Analysis](https://colab.research.google.com/drive/1Pah5ofqlS-bt3jjoAZ-i6irLWu7y5npG/)
+[Python-Code: Risk-Return Analysis](https://colab.research.google.com/drive/1Pah5ofqlS-bt3jjoAZ-i6irLWu7y5npG/) - Google Colab
 
 **Purpose**: Automating Stock Selection based on Investment Horizon, Risk Exposure and Return Expectations
 

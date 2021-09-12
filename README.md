@@ -18,7 +18,7 @@ This repository is dedicated to convey basic investment principles in theory as 
 ______________
 ______________
 
-### (1) Investment Risk-Return Analysis
+### (1) Risk-Return Analysis
 [Python-Code: Risk-Return Analysis](https://colab.research.google.com/drive/1Pah5ofqlS-bt3jjoAZ-i6irLWu7y5npG/) - Google Colab
 
 - **Purpose**: Automated stock selection based on investment horizon, risk exposure and return expectations

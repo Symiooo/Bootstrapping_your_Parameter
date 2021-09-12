@@ -8,8 +8,12 @@ This repository is dedicated to convey basic investment principles in theory as 
 
 
 #### Applied Packages (link to documentation)
--
--
+- [pandas](https://pandas.pydata.org)
+- [NumPy](https://numpy.org/doc/)
+- [matplotlib](https://matplotlib.org/stable/contents.html)
+- [seaborn](https://seaborn.pydata.org)
+- [datetime](https://docs.python.org/3/library/datetime.html)
+- [yahoo_fin](http://theautomatic.net/yahoo_fin-documentation/)
 
 ______________
 ______________
@@ -17,7 +21,7 @@ ______________
 ### Investment Risk-Return Analysis
 [Python-Code: Risk-Return Analysis](https://colab.research.google.com/drive/1Pah5ofqlS-bt3jjoAZ-i6irLWu7y5npG/) - Google Colab
 
-- **Purpose**: Automating Stock Selection based on Investment Horizon, Risk Exposure and Return Expectations
+- **Purpose**: Automated stock selection based on investment horizon, risk exposure and return expectations
 - **Methods**: Function Writing, Data Scraping, Visualizations, Date Formats
 - **Packages**: Pandas, Numpy, Matplotlib, yahoo_fin, datetime
 

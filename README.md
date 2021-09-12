@@ -1,11 +1,11 @@
 ### How To
 This repository is dedicated to convey basic investment principles in theory as well as in their practical implementation in python. The reader will develop a thorough understanding of financial principles, how they are processed in a digital data environment and how theory is transferred into python code. 
 
-##### Recommended Textbooks:
+#### Recommended Textbooks:
 - [Principles of Corporate Finance](https://www.amazon.de/Principles-Corporate-Finance-Richard-Brealey/dp/1260565556/ref=sr_1_1?__mk_de_DE=ÅMÅŽÕÑ&dchild=1&keywords=corporate+finance+principles+Myer+brealey&qid=1631462181&sr=8-1)
 - 
 
-##### Applied Packages (link to documentation)
+#### Applied Packages (link to documentation)
 -
 -
 

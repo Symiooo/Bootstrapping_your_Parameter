@@ -15,7 +15,8 @@ This repository is dedicated to convey basic investment principles in theory as 
 - [NumPy](https://numpy.org/doc/)
 - [matplotlib](https://matplotlib.org/stable/contents.html)
 - [datetime](https://docs.python.org/3/library/datetime.html)
-- [yahoo_fin](http://theautomatic.net/yahoo_fin-documentation/)
+- [yfinance](https://pypi.org/project/yfinance/)
+- [pandas-datareader](https://pandas-datareader.readthedocs.io/en/latest/)
 
 ______________
 ______________

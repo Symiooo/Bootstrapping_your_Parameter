@@ -28,7 +28,7 @@ ______________
 
 - **Purpose**: Automated stock selection based on investment horizon, risk exposure and return expectations
 - **Methods**: Function Writing, Data Scraping, Visualizations, Date Formats
-- **Packages**: Pandas, Numpy, Matplotlib, yahoo_fin, datetime
+- **Packages**: Pandas, Numpy, Matplotlib, yfinance, datetime, pandas_datareader
 
 _____________________________________________________________________________________________________________
 

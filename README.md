@@ -24,7 +24,7 @@ ______________
 ______________
 
 ### (1) Risk-Return Analysis
-[Python-Code: Risk-Return Analysis](https://colab.research.google.com/drive/1Pah5ofqlS-bt3jjoAZ-i6irLWu7y5npG/) - Google Colab
+[Python-Code: Risk-Return Analysis](https://colab.research.google.com/drive/1Pah5ofqlS-bt3jjoAZ-i6irLWu7y5npG?usp=sharing) - Google Colab
 
 - **Purpose**: Automated stock selection based on investment horizon, risk exposure and return expectations
 - **Methods**: Function Writing, Data Scraping, Visualizations, Date Formats

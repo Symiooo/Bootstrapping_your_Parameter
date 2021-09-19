@@ -1,3 +1,5 @@
+# Investment Principles Applied
+
 ### How To
 This repository is dedicated to convey basic investment principles in theory as well as in their practical implementation in python. The reader will develop a thorough understanding of financial principles, how they are processed in a digital data environment and how theory is transferred into python code. 
 

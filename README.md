@@ -32,3 +32,10 @@ ______________
 
 _____________________________________________________________________________________________________________
 
+### (2) Efficient Portfolio Management
+[Efficient Portfolio Management]()
+
+- **Purpose**:
+- **Methods**:
+- **Packages**:
+

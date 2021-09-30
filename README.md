@@ -32,7 +32,16 @@ ______________
 
 _____________________________________________________________________________________________________________
 
-### (2) Efficient Portfolio Management
+### (2) Fundamental Stock Analysis using Key Market Indicators (KMI)
+[Python-Code: Stock Analysis using KMI]()
+
+- **Purpose**:
+- **Methods**:
+- **Packages**:
+
+_____________________________________________________________________________________________________________
+
+### (3) Efficient Portfolio Management
 [Efficient Portfolio Management]()
 
 - **Purpose**:

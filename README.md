@@ -36,8 +36,8 @@ ________________________________________________________________________________
 [Python-Code: Stock Analysis using KMI](https://colab.research.google.com/drive/1SHzbp254Ld2f7VHpRD_YBFYiZZki0KBe?usp=sharing)
 
 - **Purpose**:
-- **Methods**:
-- **Packages**:
+- **Methods**: Function writing, Visualization, Time Series Analysis, Stock Data Scraping
+- **Packages**: Pandas, NumPy, Seaborn, Matplotlib, Yfinance
 
 _____________________________________________________________________________________________________________
 

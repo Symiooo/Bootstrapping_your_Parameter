@@ -33,7 +33,7 @@ ______________
 _____________________________________________________________________________________________________________
 
 ### (2) Fundamental Stock Analysis using Key Market Indicators (KMI)
-[Python-Code: Stock Analysis using KMI](https://colab.research.google.com/drive/1SHzbp254Ld2f7VHpRD_YBFYiZZki0KBe?usp=sharing)
+[Python-Code: Stock Analysis using KMI](https://colab.research.google.com/drive/1SHzbp254Ld2f7VHpRD_YBFYiZZki0KBe?usp=sharing) - Google Colab
 
 - **Purpose**: Facilitated Stock Analysis Process using Key Market Indicators such as SMA, RSI, BB, etc.
 - **Methods**: Function writing, Visualization, Time Series Analysis, Stock Data Scraping

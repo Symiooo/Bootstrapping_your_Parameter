@@ -44,7 +44,7 @@ ________________________________________________________________________________
 ### (3) Efficient Portfolio Management
 [Python-Code: Efficient Portfolio Management]()
 
-- **Purpose**: Smart Stock weight Determination using Markowitz' Modern Portfolio Theory
+- **Purpose**: Intellilgent Stock Weight Determination using Markowitz' Modern Portfolio Theory
 - **Methods**:
-- **Packages**:
+- **Packages**: Pandas, NumPy, Matplotlib
 

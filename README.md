@@ -11,15 +11,6 @@ This repository is dedicated to convey basic investment principles in theory as 
 - [The Intelligent Investor (Graham)](https://www.amazon.de/Intelligent-Investor-Benjamin-Graham/dp/0060555661)
 - [Expectations Investing - Reading Stock Prices for Better Returns (Rappaport, Mauboussin)](https://www.amazon.de/Expectations-Investing-Reading-Prices-Returns/dp/159139127X)
 
-
-#### Applied Packages (link to documentation)
-- [pandas](https://pandas.pydata.org)
-- [NumPy](https://numpy.org/doc/)
-- [matplotlib](https://matplotlib.org/stable/contents.html)
-- [datetime](https://docs.python.org/3/library/datetime.html)
-- [yfinance](https://pypi.org/project/yfinance/)
-- [pandas-datareader](https://pandas-datareader.readthedocs.io/en/latest/)
-
 ______________
 ______________
 
